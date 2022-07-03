@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\TestAPITest\\TestAPITest.csproj": {}
+    "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPITest\\TestAPITest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\TestAPITest\\TestAPITest.csproj": {
+    "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPITest\\TestAPITest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\TestAPITest\\TestAPITest.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPITest\\TestAPITest.csproj",
         "projectName": "TestAPITest",
-        "projectPath": "C:\\Users\\user\\Desktop\\TestAPITest\\TestAPITest.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPITest\\TestAPITest.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\TestAPITest\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\TestAPI\\TestAPI.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\TestAPI\\TestAPI.csproj"
+              "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPI\\TestAPI.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPI\\TestAPI.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\TestAPI\\TestAPI.csproj": {
+    "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPI\\TestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\TestAPI\\TestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPI\\TestAPI.csproj",
         "projectName": "TestAPI",
-        "projectPath": "C:\\Users\\user\\Desktop\\TestAPI\\TestAPI.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPI\\TestAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\TestAPI\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\TestAPIProject\\TestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
