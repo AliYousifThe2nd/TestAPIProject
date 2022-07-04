@@ -11,7 +11,7 @@ function DeleteIfExistsAndCreateEmptyFolder($dir )
 # Clean up target directory
 DeleteIfExistsAndCreateEmptyFolder($target )
 
-# msdeploy creates a web artifact with multiple levels of folders. We only need the content 
+# msdeploy creates a web artifact with multiple levels of folders. We only need the content
 # of the folder that has Web.config within it.
 function GetWebArtifactFolderPath($path)
 {
