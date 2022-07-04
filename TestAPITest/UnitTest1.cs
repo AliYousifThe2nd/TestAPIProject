@@ -14,7 +14,7 @@ namespace TestAPITest
         [Test]
         public void Test1()
         {
-            var temp = "Hello World!";
+            var temp = "Hello World";
             Assert.AreEqual(Expected, temp);
         }
     }
